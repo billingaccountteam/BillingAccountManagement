@@ -59,7 +59,7 @@ public class BillingaccountmanagementApplication {
 					}
 				});
 
-				Thread.sleep(100);
+				Thread.sleep(300);
 			}
 		}
 	}
