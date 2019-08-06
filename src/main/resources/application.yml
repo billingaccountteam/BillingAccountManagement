@@ -12,3 +12,5 @@ websocket:
   broker: /dashboard
   prefix: /app
   endpoint: /jdisp-websocket-endpoint
+server:
+  port: 8082
